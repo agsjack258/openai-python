@@ -1,4 +1,4 @@
-# Shared Types
+# Shared Types 
 
 ```python
 from openai.types import (
